@@ -2,7 +2,7 @@ import { Menu, X } from 'lucide-react';
 import { useState } from 'react';
 import { Link, useLocation } from 'react-router-dom'; // Используем react-router-dom
 // Представим, что логотип лежит в правильной папке
-// import logoImg from '../assets/logo.png'; 
+import logoImg from '../assets/5235948a87c728412185749774b6e1bd69eb3e.png'; 
 
 export function Header() {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
