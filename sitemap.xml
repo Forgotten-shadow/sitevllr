@@ -10,4 +10,42 @@
     <lastmod>2026-03-19</lastmod>
     <priority>0.8</priority>
   </url>
+  <url>
+    <loc>https://www.nexusfinancialadvisory.com/services</loc>
+    <lastmod>2026-03-19</lastmod>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://www.nexusfinancialadvisory.com/testimonials</loc>
+    <lastmod>2026-03-19</lastmod>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://www.nexusfinancialadvisory.com/contact</loc>
+    <lastmod>2026-03-19</lastmod>
+    <priority>0.8</priority>
+  </url>
+
+  <url><loc>https://www.nexusfinancialadvisory.com/services/marketing-diagnostic</loc><lastmod>2026-03-19</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.nexusfinancialadvisory.com/services/brand-strategy</loc><lastmod>2026-03-19</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.nexusfinancialadvisory.com/services/marketing-partnership</loc><lastmod>2026-03-19</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.nexusfinancialadvisory.com/services/finance-diagnostic</loc><lastmod>2026-03-19</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.nexusfinancialadvisory.com/services/finance-planning</loc><lastmod>2026-03-19</lastmod><priority>0.7</priority></url>
+  <url><loc>https://www.nexusfinancialadvisory.com/services/finance-partnership</loc><lastmod>2026-03-19</lastmod><priority>0.7</priority></url>
+
+  <url>
+    <loc>https://www.nexusfinancialadvisory.com/privacy</loc>
+    <lastmod>2026-02-27</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.nexusfinancialadvisory.com/terms</loc>
+    <lastmod>2026-02-27</lastmod>
+    <priority>0.3</priority>
+  </url>
+  <url>
+    <loc>https://www.nexusfinancialadvisory.com/legal</loc>
+    <lastmod>2026-02-27</lastmod>
+    <priority>0.3</priority>
+  </url>
 </urlset>
