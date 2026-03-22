@@ -13,16 +13,7 @@ import { LegalPage } from './pages/LegalPage';
 
 export const router = createBrowserRouter([
   // Специальные роуты для SEO (без Root layout)
-  { 
-    path: 'sitemap.xml', 
-    Component: SitemapPage,
-    loader: sitemapLoader
-  },
-  { 
-    path: 'robots.txt', 
-    Component: RobotsTxtPage,
-    loader: robotsLoader
-  },
+
   {
     path: '/',
     Component: Root,
