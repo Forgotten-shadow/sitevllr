@@ -9,8 +9,7 @@ import { ServiceDetailPage } from './pages/ServiceDetailPage';
 import { PrivacyPage } from './pages/PrivacyPage';
 import { TermsPage } from './pages/TermsPage';
 import { LegalPage } from './pages/LegalPage';
-import { SitemapPage, sitemapLoader } from './pages/SitemapPage';
-import { RobotsTxtPage, robotsLoader } from './pages/RobotsTxtPage';
+
 
 export const router = createBrowserRouter([
   // Специальные роуты для SEO (без Root layout)
